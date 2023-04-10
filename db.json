@@ -1,0 +1,250 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PERSPECTIVE BLUR BROWN",
+      "price": "43000",
+      "image": "https://product.hstatic.net/1000306633/product/dsc00894_e53e739660ff403895e1095559d071e6_grande.jpg",
+      "description": "• Áo bo cổ khác màu áo • Form basic mới • Biểu tượng H in full bản ở mặt trước áo kết hợp hiệu ứng blur Nameplate inox đính ở mặt sau áo • Chất liệu: Cotton 2 chiều"
+    },
+    {
+      "id": 2,
+      "name": "PERSPECTIVE BLUR BROWN",
+      "price": 420000,
+      "image": "https://product.hstatic.net/1000306633/product/z4134857054476_af6e13fc2ef9851e7077b341963cb751_05d1785d19d04bd485a3c8f969771f28.jpg",
+      "description": "• Áo bo cổ khác màu áo • Form basic mới • Biểu tượng H in full bản ở mặt trước áo kết hợp hiệu ứng blur Nameplate inox đính ở mặt sau áo • Chất liệu: Cotton 2 chiều",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "BLOOM FLAME BOXY TEE",
+      "price": 420000,
+      "image": "https://product.hstatic.net/1000306633/product/dsc06827_360f1b2014554f3baeba83e470c0b81e.jpg",
+      "description": "• Áo bo cổ khác màu áo • Form basic mới • Biểu tượng H in full bản ở mặt trước áo kết hợp hiệu ứng blur Nameplate inox đính ở mặt sau áo • Chất liệu: Cotton 2 chiều",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "RIOT MEOWS TEE",
+      "price": "390000",
+      "image": "https://product.hstatic.net/1000306633/product/hades_18.123836_665c37412e094e0cb1649b5aaee6259d.jpg",
+      "description": "• Áo bo cổ khác màu áo • Form basic mới • Biểu tượng H in full bản ở mặt trước áo kết hợp hiệu ứng blur Nameplate inox đính ở mặt sau áo • Chất liệu: Cotton 2 chiều",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "ENERGETIC PANT",
+      "price": 650000,
+      "description": "• Quần form suông • Nẹp sắt logo Hades • Biểu tượng  thêu ở 2 túi trước • Các đường line ở mặt trước và sau quần tạo thêm điểm nhấn• Chất liệu: Kaki ",
+      "image": "https://product.hstatic.net/1000306633/product/energetic_pant_1__e5e1319c5a3c490f984c0e5c406b5f27.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "TEXTURE LINE TRACK ",
+      "price": "550000",
+      "image": "https://product.hstatic.net/1000306633/product/hades_20.03.23.7268_7384778b28e042c88c43c6533d53b353.jpg",
+      "description": "• Quần form suông • Nẹp sắt logo Hades • Biểu tượng  thêu ở 2 túi trước • Các đường line ở mặt trước và sau quần tạo thêm điểm nhấn• Chất liệu: Kaki ",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "HIGHER-UP PANT",
+      "price": 650000,
+      "image": "https://product.hstatic.net/1000306633/product/untitled_capture0015_3b8389751f4145259d12ca2b3d19fa3d.jpg",
+      "description": "• Quần form suông • Nẹp sắt logo Hades • Biểu tượng  thêu ở 2 túi trước • Các đường line ở mặt trước và sau quần tạo thêm điểm nhấn• Chất liệu: Kaki ",
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "name": "SUNDRY PANT",
+      "price": 650000,
+      "image": "https://product.hstatic.net/1000306633/product/untitled_capture0006_copy_24c8143a3fb1481e83175112efc316c7.jpg",
+      "description": "• Quần form suông • Nẹp sắt logo Hades • Biểu tượng  thêu ở 2 túi trước • Các đường line ở mặt trước và sau quần tạo thêm điểm nhấn• Chất liệu: Kaki ",
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "name": "UNDERDOG VARSITY",
+      "price": 990000,
+      "description": "• Hoạ tiết thêu nổi ở mặt trước và sau áo • Ráp nối vải phần cánh tay với chất liệu simili chống thấm nước • Có lớp lót dù phía trong • Bo cổ, tay và thân áo • Chất liệu: Da pu phối",
+      "image": "https://product.hstatic.net/1000306633/product/hades_18.123779_6372cd4ec27f40649f72e6b995652feb.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 10,
+      "name": "TAWNY JACKET",
+      "price": 790000,
+      "image": "https://product.hstatic.net/1000306633/product/dsc03094_e19acd9471764e6ba1306e757245585d.jpg",
+      "description": "• Hoạ tiết thêu nổi ở mặt trước và sau áo • Ráp nối vải phần cánh tay với chất liệu simili chống thấm nước • Có lớp lót dù phía trong • Bo cổ, tay và thân áo • Chất liệu: Da pu phối",
+      "categoryId": 3
+    },
+    {
+      "id": 11,
+      "name": "CARREAUX HOODIE",
+      "price": 690000,
+      "image": "https://product.hstatic.net/1000306633/product/hades1101_f993352e3b4d436fbbc72a2da2d43d68.jpg",
+      "description": "• Hoạ tiết thêu nổi ở mặt trước và sau áo • Ráp nối vải phần cánh tay với chất liệu simili chống thấm nước • Có lớp lót dù phía trong • Bo cổ, tay và thân áo • Chất liệu: Da pu phối",
+      "categoryId": 3
+    },
+    {
+      "id": 12,
+      "name": "MONOGRAM CARDIGAN",
+      "price": 790000,
+      "image": "https://product.hstatic.net/1000306633/product/hades5397_copy_86161180ab514293aad555eff579638a_grande.jpg",
+      "description": "• Hoạ tiết thêu nổi ở mặt trước và sau áo • Ráp nối vải phần cánh tay với chất liệu simili chống thấm nước • Có lớp lót dù phía trong • Bo cổ, tay và thân áo • Chất liệu: Da pu phối",
+      "categoryId": 3
+    },
+    {
+      "id": 13,
+      "name": "BLACK BLOCK BACKPACK",
+      "price": 690000,
+      "description": "• Logo Hades bằng kim loại • Chống thấm nước • Ngăn chứa đồ rộng rãi • Chất liệu: Simili",
+      "image": "https://product.hstatic.net/1000306633/product/black_block_balo_0b74a3b3795d4835bf9469b3f21c8242.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 14,
+      "name": "CURVE CROSSBODY QUITED",
+      "price": "380000",
+      "image": "https://product.hstatic.net/1000306633/product/curve_crossbody_quited_bag_a8a27f599cf74d058a39b61cc51348c3.jpg",
+      "description": "• Logo Hades bằng kim loại • Chống thấm nước • Ngăn chứa đồ rộng rãi • Chất liệu: Simili",
+      "categoryId": 4
+    },
+    {
+      "id": 15,
+      "name": "LAGOM BACKPACK",
+      "price": 690000,
+      "image": "https://product.hstatic.net/1000306633/product/balo_d33395ba10704ca7ac7ad787af8ea5d9.jpg",
+      "description": "• Logo Hades bằng kim loại • Chống thấm nước • Ngăn chứa đồ rộng rãi • Chất liệu: Simili",
+      "categoryId": 4
+    },
+    {
+      "id": 16,
+      "name": "METAL MINI BAG",
+      "price": "990000",
+      "image": "https://product.hstatic.net/1000306633/product/bag_mini_4_1150c98f3cd24e79a72b0eb2bebfd585_grande.jpg",
+      "description": "• Logo Hades bằng kim loại • Chống thấm nước • Ngăn chứa đồ rộng rãi • Chất liệu: Simili",
+      "categoryId": 4
+    },
+    {
+      "name": "SHELTER STRIPED POLO",
+      "price": "490000",
+      "image": "https://product.hstatic.net/1000306633/product/shelter_striped_polo_c72eb5068a464a6684ed3f628d7af2e3.jpg",
+      "description": "Thiết kế sọc dọc kéo dài toàn thân  • Hoạ tiết trên áo sử dụng kỹ thuật in lụa và in phồng   • Chất liệu: vải cotton cá sấu",
+      "id": 17,
+      "categoryId": 1
+    },
+    {
+      "name": "MULTI TROUSER PANTS",
+      "price": "385000",
+      "image": "https://product.hstatic.net/1000306633/product/multi_den_pant_d652289d0ab24a16a589edefef5476a9_grande.jpg",
+      "description": "Đường line giữa quần • Logo Hades thêu nổi • Dây kéo ngay cổ chân • Lưng thun co dãn ",
+      "id": 18,
+      "categoryId": 2
+    },
+    {
+      "id": 19,
+      "name": "ARTEFACT SWEATER",
+      "price": "4500001",
+      "image": "https://product.hstatic.net/1000306633/product/sweater_wolf_pink_b_8fdeaa9ecf1042fda06cda11270036b9.jpg",
+      "description": "Bo gân cổ, tay và tà áo • Kỹ thuật: in phồng hoạ tiết  • Chất liệu: Nỉ bông"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Tops",
+      "id": 1
+    },
+    {
+      "name": "Bottoms",
+      "id": 2
+    },
+    {
+      "name": "Outerwear",
+      "id": 3
+    },
+    {
+      "name": "Bags",
+      "id": 4
+    },
+    {
+      "name": "Hats",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "luongttph28185@fpt.edu.vn",
+      "password": "$2a$10$CalNhZ5AaycjXCxIiex51uUB93ICySSRaS1LEWiH8kTu4hthZvepe",
+      "name": "luongttph",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 1
+    },
+    {
+      "email": "luong01@gmail.com",
+      "password": "$2a$10$pNBdh6x8LHh17TF7Q177AOfsfGEGA/BsTZy26Il3VrSgT/5s8uVXS",
+      "name": "luong01",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 2
+    },
+    {
+      "email": "luong003@gmail.com",
+      "password": "$2a$10$POPilpldX3FH4LdSYW7pcufRErnHtufSQIIh1IiEvRJZeg9bNrzXa",
+      "name": "luong0300303",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 3
+    },
+    {
+      "email": "luongluong@gmail.com",
+      "password": "$2a$10$SBsuGT4M/8zg4OC3wAgUIeiI4dV.iCqju0xSKNRsu/akDp4tjCVZ2",
+      "name": "luongluong",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 4
+    },
+    {
+      "email": "luongabc@gmail.com",
+      "password": "$2a$10$JqKNO68WerMIjRWkOwMj7O13DDGpKEW14JuANAI4s.LtV20JJi/KK",
+      "name": "luongabc",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 5
+    },
+    {
+      "email": "luongiu@gmail.com",
+      "password": "$2a$10$oTskmWchvBypams9qlglVOMLfjQcOAwztbh8cwQRfJrViNv6PYpfu",
+      "name": "luongiu",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 6
+    },
+    {
+      "email": "ukelele@gmail.com",
+      "password": "$2a$10$OPIewuQjJ23WAQWXj/P56eyIVqrluOsxJN.XyUo5XIsKSUNDpDve.",
+      "name": "ukulele",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 7
+    },
+    {
+      "email": "luongiuuu@gmail.com",
+      "password": "$2a$10$4gruVIRBamI/sU6ruZACceL5fJVum1STa7g3S.I/b4WsS1K7vCa6S",
+      "name": "luongiuuu",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 8
+    },
+    {
+      "email": "luongttph28185@fpt.edu.vm",
+      "password": "$2a$10$M.N.9onPOMBbE.rN9ZZJB.bUo8wlDc2CGKSkfc5C73cScatleZTzC",
+      "name": "luong",
+      "confirmPassword": "392003",
+      "remember": true,
+      "id": 9
+    }
+  ]
+}
